@@ -1,0 +1,1 @@
+enum ManageApisEnums{PARENT,STAFF,ADMIN}
